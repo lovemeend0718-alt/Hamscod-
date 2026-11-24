@@ -1,5 +1,6 @@
 # Hamscod-
-햄스코드입니다. 단점:심각한건데 더연구해봐야 할것 같습니다 
+햄스코드입니다. 단점:심각한건데 더연구해봐야 할것 같습니다. 보안문제는 아니고 싱글모드 애가 내보내기 안합니다.
+
 import tkinter as tk
 from tkinter import messagebox
 from datetime import datetime
